@@ -23,5 +23,5 @@ I am high school student. I make discord bots and games. :)
 
 
 # Contact
-- Discord : Piop2#6139
+- Discord : Piop2#0220
 - Email : seungyounyou0220@gmail.com

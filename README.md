@@ -14,12 +14,12 @@ I am high school student. I make discord bots and games. :)
 
 # I sometimes use....
 <img src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=C&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/GO-%2300ADD8?style=flat&logo=GO&logoColor=ffffff"/></a>
 
 # I am studying.....
 <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/JAVASCRIPT-%23323330?style=flat&logo=JavaScript&logoColor=%23F7DF1E"/></a>
-<img src="https://img.shields.io/badge/GO-%2300ADD8?style=flat&logo=GO&logoColor=ffffff"/></a>
 
 
 # Contact

@@ -1,4 +1,4 @@
-## Contact
+# Contact
 
 <p align="center">
     <a href="https://discord.com/users/736472505224527902">
